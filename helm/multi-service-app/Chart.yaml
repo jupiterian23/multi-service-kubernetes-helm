@@ -1,0 +1,6 @@
+apiVersion: v2
+name: multi-service-app
+description: A multi-service Flask application deployed on Kubernetes using Helm
+type: application
+version: 1.0.0
+appVersion: "1.0"

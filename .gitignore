@@ -1,0 +1,15 @@
+# Helm package
+*.tgz
+
+# Kubernetes local files
+*.kubeconfig
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
